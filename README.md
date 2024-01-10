@@ -58,7 +58,7 @@ A [Bonsai](https://bonsai-rx.org/) workflow for lick-based foraging experiments,
   - The installation directory should be `C:\Users\svc_aind_behavior\Documents\GitHub\`
   - `git clone https://github.com/AllenNeuralDynamics/dynamic-foraging-task.git`
   - If you do not have git installed, use: https://gitforwindows.org
-- Install Bonsai on your computer
+- Install Bonsai on your computer [here](https://bonsai-rx.org/docs/articles/installation.html)
   - Change to the `dynamic-foraging-task\bonsai` folder
   - In the command prompt, type: `setup.cmd`
 - Update the firmware of the Harp Behavior Board by following the instructions [here](https://harp-tech.org/docs/articles/firmware.html).
