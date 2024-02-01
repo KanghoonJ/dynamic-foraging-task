@@ -35,6 +35,7 @@ A [Bonsai](https://bonsai-rx.org/) workflow for lick-based foraging experiments,
 - [NI-DAQmax **version 19.0**](https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html#484356) (for optogenetic stimulation via NI-DAQ cards)
 - [Spinnaker SDK **version 1.29.0.5**](https://www.flir.com/products/spinnaker-sdk/) (driver for FLIR cameras)
 - [USBXpress_SDK](https://www.silabs.com/documents/public/software/install_USBXpress_SDK.exe) (for newscale python API)
+- [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) (for high speed video recording via h264_nvenc video codec using nvidia GPU) 
 - Python packages:
   - `numpy`
   - `scipy`
@@ -50,6 +51,8 @@ A [Bonsai](https://bonsai-rx.org/) workflow for lick-based foraging experiments,
 - [Harp Sound Card](https://github.com/harp-tech/device.soundcard)
 - [Harp Audio Amplifier](https://github.com/harp-tech/peripheral.audioamp)
 - [Harp Synchronizer](https://github.com/harp-tech/device.synchronizer)
+- FLIR Bonsai compatible camera (for high speed video recording) 
+- NVENC compatible NVIDIA GPU (for high speed video recording)
   
 ## Deployment
 
